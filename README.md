@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer</h1>
 <h3 align="center">A passionate Computer Engineer and aspiring Data Scientist/Analyst in Italy! I'm a Masters' student at Politecnico di Torino and currently looking for internship/job opportunities.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <ul><li>mkshaheer21@gmail.com</li></li></ul></h3>
 <p align="left">
 </p>
 
