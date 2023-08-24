@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shaheer</h1>
-<h3 align="center">A passionate Computer Engineer and aspiring Data Scientist/Analyst in Italy! <br> I graduated from Bachelors in Computer Engineering from Politecnico di Torino in March 2023. <br> I'm a Masters' student at Politecnico di Torino </h3><br>
+<h3 align="center">A passionate Computer Engineer and aspiring Data Scientist/Analyst in Italy! <br> I graduated from Bachelors in Computer Engineering from Politecnico di Torino in March 2023. <br> I'm a Masters' student at Politecnico di Torino in Data Science and Engineering </h3><br>
   <h2>I am currently looking for internship/job opportunities.</h2>
 
 <h3 align="left">Connect with me: <ul><li>mkshaheer21@gmail.com</li></li></ul></h3>
